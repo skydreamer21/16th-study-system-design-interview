@@ -60,3 +60,9 @@
 | 9주차 | 미정  | 2권 11장~13장 (2권 최종) | X |
 
 
+### 스터디 관련 참고 아티클
+- https://www.wanted.co.kr/events/22_12_s01_b07
+- https://americanopeople.tistory.com/456
+- 아키텍처를 그릴때 쓸만한 프로그램
+  - https://excalidraw.com/
+  - 그림판 등도 가능
