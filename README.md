@@ -8,6 +8,7 @@
 ### 🍀 MEMBER (각자 추가해주세요)
 <table>
     <td align="center"><a href="https://github.com/yunyoung1819"><img src="https://github.com/yunyoung1819.png" width="100px;" alt=""/><br /><sub><b>윤 영</b></sub></a><br />YUN YOUNG </a></td>
+    <td align="center"><a href="https://github.com/LeeHanEum"><img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="100px;" alt=""/><br /><sub><b>이한음</b></sub></a><br />LEE HANEUM </a></td>
   </tr>
 </table>
 
