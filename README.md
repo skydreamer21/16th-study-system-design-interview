@@ -13,6 +13,8 @@
     <td align="center"><a href="https://github.com/LeeHanEum"><img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="100px;" alt=""/><br /><sub><b>이한음</b></sub></a><br />LEE HANEUM </a></td>
     <td align="center"><a href="https://github.com/wjdwnsdnjs13"><img src="https://github.com/wjdwnsdnjs13.png" width="100px;" alt=""/><br /><sub><b>정준원</b></sub></a><br />JEONG JUNWON </a></td>
   </tr>
+    <td align="center"><a href="https://github.com/linirini"><img src="https://avatars.githubusercontent.com/u/101927543?v=4" width="100px;" alt=""/><br /><sub><b>이예린</b></sub></a><br />LEE YERIN </a></td>
+  </tr>
 </table>
 
 ### 📆 기간
