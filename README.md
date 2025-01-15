@@ -14,6 +14,7 @@
     <td align="center"><a href="https://github.com/wjdwnsdnjs13"><img src="https://github.com/wjdwnsdnjs13.png" width="100px;" alt=""/><br /><sub><b>정준원</b></sub></a><br />JEONG JUNWON </a></td>
   </tr>
     <td align="center"><a href="https://github.com/linirini"><img src="https://avatars.githubusercontent.com/u/101927543?v=4" width="100px;" alt=""/><br /><sub><b>이예린</b></sub></a><br />LEE YERIN </a></td>
+    <td align="center"><a href="https://github.com/skydreamer21"><img src="https://avatars.githubusercontent.com/u/95271588?v=4" width="100px;" alt=""/><br /><sub><b>김주현</b></sub></a><br />KIM JUHYUN</a></td>
   </tr>
 </table>
 
